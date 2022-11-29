@@ -17,7 +17,7 @@ body {
 
 .header h1 {
     display: inline-block;
-    font-size: 48px;
+    font-size: 50px;
 }
 
 .header h1 .seo {
@@ -178,7 +178,7 @@ p {
     font-size: 36px;
 }
 
-.online-reputation-management h2 {
+.online-marketing-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -196,5 +196,5 @@ p {
 }
 
 .footer h2 {
-    font-size: 20px;
+    font-size: 15px;
 }
